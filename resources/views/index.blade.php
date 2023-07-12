@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Yummy Bootstrap Template - Index</title>
+  <title>1000Plus Enterprises</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href='{{asset("assets/img/favicon.png")}}' rel="icon">
+  <link href='{{asset("assets/img/favicon.ico")}}' rel="icon">
   <link href='{{asset("assets/img/apple-touch-icon.png")}}' rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -29,9 +29,9 @@
   <link href='{{asset("assets/css/main.css")}}' rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Yummy
+  * Template Name: 1000Plus
   * Updated: May 30 2023 with Bootstrap v5.3.0
-  * Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
+  * Template URL: https://bootstrapmade.com/1000Plus-bootstrap-restaurant-website-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
@@ -46,7 +46,7 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src='{{asset("assets/img/logo.png")}}' alt=""> -->
-        <h1>Yummy<span>.</span></h1>
+        <h1>1000Plus<span>.</span></h1>
       </a>
 
       <nav id="navbar" class="navbar">
@@ -98,7 +98,7 @@
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
-          <img src='{{asset("assets/img/hero-img.png")}}' class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
+          <img src='{{asset("assets/img/fbmilk.png")}}' class="img-fluid" alt="" data-aos="zoom-out" data-aos-delay="300">
         </div>
       </div>
     </div>
@@ -157,7 +157,7 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="why-box">
-              <h3>Why Choose Yummy?</h3>
+              <h3>Why Choose 1000Plus?</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
                 Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
@@ -248,7 +248,7 @@
 
         <div class="section-header">
           <h2>Our Menu</h2>
-          <p>Check Our <span>Yummy Menu</span></p>
+          <p>Check Our <span>1000Plus Menu</span></p>
         </div>
 
         <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
@@ -1054,14 +1054,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Yummy</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>1000Plus</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/1000Plus-bootstrap-restaurant-website-template/ -->
+        Designed by Chakravarthy Gajvelly
       </div>
     </div>
 
